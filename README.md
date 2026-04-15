@@ -56,7 +56,7 @@ This platform leverages high-performance modern web technologies to ensure light
 ## Take Action
 
 Visit our live platform to browse our full catalog and acquire datasets instantly:
-👉 **[Saudi-Data.site - Live Portal](https://saudi-data.site)**
+👉 **[Saudi-Data.site - Live Portal](https://www.saudi-data.site/products)**
 
 ---
 *Dedicated to supporting the Saudi Vision 2030 digital economy.*
